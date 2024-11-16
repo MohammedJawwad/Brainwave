@@ -4,6 +4,10 @@
 
 ![Brainwave](public/Page.png) 
 
+## 🌐 Demo  
+
+Experience the live demo here: [Brainwave Live Demo](https://js-brainwave.com/) 
+
 ## ⚙️ Tech Stack  
 - **Vite**: Lightning-fast build tool for modern web development  
 - **React.js**: A declarative, component-based JavaScript library for building user interfaces  
@@ -61,3 +65,16 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 📂 Project Structure
+brainwave/
+├── public/          # Static assets  
+├── src/  
+│   ├── components/  # Reusable UI components  
+│   ├── pages/       # Main website pages  
+│   ├── styles/      # Tailwind CSS configurations  
+│   └── App.jsx      # Root React component  
+└── vite.config.js   # Vite configuration  
+
+## 📄 License
+This project is licensed under the ###MIT License.
