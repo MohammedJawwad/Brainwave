@@ -2,7 +2,7 @@
 
 **Brainwave** is a modern UI/UX website designed with **React.js** and **Tailwind CSS**, showcasing cutting-edge design principles. Its sleek interface, seamless animations, and exceptional user experience make it a benchmark for modern web applications.  
 
-![Brainwave](path-to-your-image.jpg) 
+![Brainwave](public/Page.png) 
 
 ## ⚙️ Tech Stack  
 - **Vite**: Lightning-fast build tool for modern web development  
