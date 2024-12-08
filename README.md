@@ -6,7 +6,7 @@
 
 ## 🌐 Demo  
 
-Experience the live demo here: [Brainwave Live Demo](https://js-brainwave.com/) 
+Experience the live demo here: [Brainwave Live Demo](https://brainwave-js.netlify.app/) 
 
 ## ⚙️ Tech Stack  
 - **Vite**: Lightning-fast build tool for modern web development  
