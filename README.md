@@ -53,10 +53,10 @@ Ensure the following are installed on your machine:
 
 ### Installation  
 1. Clone the repository:  
-   ```bash  
-   https://github.com/MohammedJawwad/Brainwave.git  
-   cd Brainwave
-   ```  
+```bash  
+git clone https://github.com/MohammedJawwad/Brainwave.git  
+cd Brainwave
+```  
 2. Install dependencies:
 ```bash
 npm install
